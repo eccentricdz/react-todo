@@ -1,0 +1,15 @@
+body {
+  background-color: #12022D;
+}
+
+.App {
+  width: 500px;
+  max-width: 90%;
+  margin: 100px auto;
+}
+
+.App-header {
+  color: #B36B3C;
+  font-size: 1.5em;
+  margin-bottom: 75px
+}

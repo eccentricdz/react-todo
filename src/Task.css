@@ -1,0 +1,23 @@
+.todo-task {
+	display: flex;
+    height: 50px;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.todo-task ~ .todo-task{
+	margin-top: 0px;
+}
+
+.task-title {
+	flex: 1;
+	padding: 0 15px;
+}
+
+.incomplete {
+	color: white;
+}
+
+.complete {
+	color: #403257;
+}

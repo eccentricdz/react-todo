@@ -1,0 +1,31 @@
+#todo-form {
+	position: relative;
+}
+
+#todo-form > i {
+	position: absolute;
+	top: 25px;
+	right: 0;
+}
+
+#todo-input {
+    background: transparent;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #B36B3C;
+    width: 100%;
+    font-size: 1.5em;
+    padding: 15px 0;
+    color: #403257;
+}
+
+#todo-input:focus {
+	color: white;
+}
+
+#todo-input-submit {
+	display: none;
+}
+
+
+
